@@ -486,3 +486,34 @@ a {
   border-radius: 50%;
   background: #1ebfc1;
 }
+/* ===========countdown================= */
+.countdown {
+  margin-top: 81px;
+}
+.countdown .body {
+  margin-left: auto;
+  margin-right: auto;
+  width: 862px;
+}
+.countdown .countdown-list {
+  display: flex;
+  justify-content: space-between;
+}
+.countdown .countdown-list .static {
+  color: #0d1111;
+  text-align: center;
+  font-size: 62px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.countdown .countdown-list .desc {
+  color: #767e7e;
+  margin-top: 11px;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
