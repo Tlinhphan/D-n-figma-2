@@ -122,6 +122,12 @@ a {
   color: #767e7e;
   font-size: 1.4rem;
 }
+.hero .content-block .top-title-lv2 {
+  color: #767e7e;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: normal;
+}
 
 .hero .content-block .title {
   margin-top: 18px;
@@ -621,4 +627,70 @@ a {
 .feedback .ava-fb-6 {
   top: 374px;
   left: 1060px;
+}
+/* =================admit=============== */
+.admit {
+  margin-top: 130px;
+  padding: 76px 135px 88px;
+  background: #def6f5;
+}
+.admit .body {
+  display: flex;
+  align-items: center;
+}
+.admit .admit-left .desc {
+  color: #767e7e;
+  margin-top: 18px;
+  margin-right: 410px;
+  font-size: 1.8rem;
+  font-weight: 400;
+}
+/* =============footer================= */
+.footer {
+  background: #ffffff;
+}
+.footer .row-top {
+  padding: 131px 0 0;
+  display: flex;
+  justify-content: space-between;
+}
+.footer .title {
+  color: #2e2e2e;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: normal;
+}
+.footer .list li {
+  color: #535353;
+  margin-top: 18px;
+  font-size: 1.6rem;
+  line-height: normal;
+}
+.footer .list li:first-child {
+  margin-top: 26px;
+}
+footer li a {
+  color: #535353;
+  font-size: 1.6rem;
+  line-height: normal;
+}
+.footer .list .social-icon {
+  margin-right: 9px;
+}
+
+.footer .copyright {
+  color: #b0b5b4;
+  margin-top: 80px;
+  padding-bottom: 50px;
+  text-align: center;
+  font-size: 1.8rem;
+  line-height: normal;
+}
+.footer .list-item5 a {
+  display: flex;
+  align-items: center;
+}
+
+.footer .list .social-icon {
+  margin-right: 9px;
 }
